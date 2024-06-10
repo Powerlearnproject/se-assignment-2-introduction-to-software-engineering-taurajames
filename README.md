@@ -7,6 +7,8 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+   answer
+   Software engineering is the system application of the computer principles,and tools to the development and maintaince of high quality software.
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
@@ -23,10 +25,10 @@ Software Design Principles:
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
 
-Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+ Why is testing crucial in software development?
 Version Control Systems:
 
-What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+what are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
@@ -41,3 +43,4 @@ Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
+[Software engineering is the systematic application of engineering principles and tools to the development and maintenance of high.docx](https://github.com/user-attachments/files/15779969/Software.engineering.is.the.systematic.application.of.engineering.principles.and.tools.to.the.development.and.maintenance.of.high.docx)
